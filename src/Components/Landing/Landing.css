@@ -1,0 +1,13 @@
+.title {
+    background: linear-gradient(to right, rgb(96, 85, 255), rgb(253, 22, 14));
+    background-clip: text;
+    color: transparent;
+}
+
+img {
+    transition: .3s ease;
+}
+
+img:hover {
+   opacity: .8;
+}
